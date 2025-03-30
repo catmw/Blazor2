@@ -1,0 +1,67 @@
+﻿@page "/categories"
+@using L00172691_BlazorServer.Models.Models
+@using Services
+@inject IUnitOfWork _unitOfWork;
+
+<div class="row mt-4">
+    <div class="col-6">
+        <h4 class="card-title text-info">Category List</h4>
+    </div>
+    <div class="col-4 offset-2">
+        <a href="categories/create" class="btn btn-info form-control">Add New Category</a>
+    </div>
+    <div class="col-12 p-3">
+        @if (listOfCategories.Any())
+        {
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var cat in listOfCategories)
+                    {
+                        <tr>
+                            <td>@cat.Name</td>
+                            <td><NavLink href="@($"categories/edit/{cat.Id}")" class="btn-primary btn">Edit</NavLink> </td>
+                            <td><NavLink href="@($"categories/delete/{cat.Id}")" class="btn-danger btn">Delete</NavLink> </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            @* <p>No Records Found</p> *@
+            if (isLoading)
+            {
+                <div class="text-center">
+                    <img src="/images/LoadingGif.gif" />
+                </div>
+            }
+            else
+            {
+                <p>No Records Found</p>
+            }
+        }
+    </div>
+</div>
+
+@code{
+    private IEnumerable<Category> listOfCategories { get; set; } = new List<Category>();
+    private bool isLoading { get; set; } = true;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Run(LoadCategories);
+    }
+
+    private void LoadCategories()
+    {
+        listOfCategories = _unitOfWork.CategoryRepo.GetAll();
+        isLoading = false;
+    }
+}

@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver\\components\\pages\\categories\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\pages\\categories\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver\\components\\pages\\categories\\deletecategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\pages\\categories\\deletecategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver\\components\\pages\\categories\\editcategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\pages\\categories\\editcategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6D0137-EA75-4619-A7B4-EC6B4C0F9FBD}|..\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.model\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver\\components\\pages\\categories\\createcategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\pages\\categories\\createcategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.dataaccess\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125AA98D-0CAF-45D3-9DD6-022E751D9666}|..\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125AA98D-0CAF-45D3-9DD6-022E751D9666}|..\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.dataaccess\\repositories\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.dataaccess\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.dataaccess\\repositories\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6D0137-EA75-4619-A7B4-EC6B4C0F9FBD}|..\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj|c:\\users\\edgar\\documents\\github\\blazor2\\l00172691_blazorserver.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteCategory.razor",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\DeleteCategory.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Categories\\DeleteCategory.razor",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\DeleteCategory.razor",
+              "RelativeToolTip": "Components\\Pages\\Categories\\DeleteCategory.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T20:37:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditCategory.razor",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\EditCategory.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Categories\\EditCategory.razor",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\EditCategory.razor",
+              "RelativeToolTip": "Components\\Pages\\Categories\\EditCategory.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T20:25:07.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:52:28.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryList.razor",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\CategoryList.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Categories\\CategoryList.razor",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\CategoryList.razor",
+              "RelativeToolTip": "Components\\Pages\\Categories\\CategoryList.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:14:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T16:53:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:50:21.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:20:13.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.Model\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\Models\\Category.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.Model\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:08:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.Services\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.Services\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:04:48.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:07:24.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategory.razor",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\CreateCategory.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Categories\\CreateCategory.razor",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\CreateCategory.razor",
+              "RelativeToolTip": "Components\\Pages\\Categories\\CreateCategory.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:15:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\ICategoryRepo.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\ICategoryRepo.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\ICategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:20:37.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:19:56.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:21:01.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\ProductRepo.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\ProductRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:20:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\IProductRepo.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\IProductRepo.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:20:43.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:20:47.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.Model\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\Models\\Product.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.Model\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:09:00.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

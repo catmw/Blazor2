@@ -1,0 +1,14 @@
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\bin\Debug\net8.0\L00172691_BlazorServer.Model.deps.json
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\bin\Debug\net8.0\L00172691_BlazorServer.Model.runtimeconfig.json
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\bin\Debug\net8.0\L00172691_BlazorServer.Model.dll
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\bin\Debug\net8.0\L00172691_BlazorServer.Model.pdb
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\L00172691_BlazorServer.Model.csproj.AssemblyReference.cache
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\L00172691_BlazorServer.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\L00172691_BlazorServer.Model.AssemblyInfoInputs.cache
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\L00172691_BlazorServer.Model.AssemblyInfo.cs
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\L00172691_BlazorServer.Model.csproj.CoreCompileInputs.cache
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\L00172691_BlazorServer.Model.dll
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\refint\L00172691_BlazorServer.Model.dll
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\L00172691_BlazorServer.Model.pdb
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\L00172691_BlazorServer.Model.genruntimeconfig.cache
+C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Model\obj\Debug\net8.0\ref\L00172691_BlazorServer.Model.dll
