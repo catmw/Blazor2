@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HwSSt6kp2XuZxK+QHFx3PMMaa1SbKfAXoFIAGEfkYFM=",
+  "Hash": "nxUOqd3/dsgaAMgyNwpr4/Ne+9+GGR5LPCHlhaaoq1k=",
   "Source": "L00172691_BlazorServer",
   "BasePath": "_content/L00172691_BlazorServer",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "L00172691_BlazorServer\\wwwroot",
       "Source": "L00172691_BlazorServer",
-      "ContentRoot": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
       "BasePath": "_content/L00172691_BlazorServer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\L00172691_BlazorServer.styles.css",
+      "Identity": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\L00172691_BlazorServer.styles.css",
       "SourceId": "L00172691_BlazorServer",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/L00172691_BlazorServer",
-      "RelativePath": "L00172691_BlazorServer#[.{fingerprint}]?.styles.css",
+      "RelativePath": "L00172691_BlazorServer.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,19 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "d68oex8syh",
-      "Integrity": "m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\L00172691_BlazorServer.styles.css"
+      "OriginalItemSpec": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\L00172691_BlazorServer.styles.css"
     },
     {
-      "Identity": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\L00172691_BlazorServer.bundle.scp.css",
+      "Identity": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\L00172691_BlazorServer.bundle.scp.css",
       "SourceId": "L00172691_BlazorServer",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/L00172691_BlazorServer",
-      "RelativePath": "L00172691_BlazorServer#[.{fingerprint}]!.bundle.scp.css",
+      "RelativePath": "L00172691_BlazorServer.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,692 +50,104 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "d68oex8syh",
-      "Integrity": "m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\L00172691_BlazorServer.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\L00172691_BlazorServer.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\app.css",
       "SourceId": "L00172691_BlazorServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
       "BasePath": "_content/L00172691_BlazorServer",
-      "RelativePath": "app#[.{fingerprint}]?.css",
+      "RelativePath": "app.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "da95v2qkru",
-      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "L00172691_BlazorServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
       "BasePath": "_content/L00172691_BlazorServer",
-      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "L00172691_BlazorServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
       "BasePath": "_content/L00172691_BlazorServer",
-      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\favicon.png",
       "SourceId": "L00172691_BlazorServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
       "BasePath": "_content/L00172691_BlazorServer",
-      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "RelativePath": "favicon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ifv42okdf2",
-      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\images\\LoadingGif.gif",
+      "Identity": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\images\\LoadingGif.gif",
       "SourceId": "L00172691_BlazorServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\",
       "BasePath": "_content/L00172691_BlazorServer",
-      "RelativePath": "images/LoadingGif#[.{fingerprint}]?.gif",
+      "RelativePath": "images/LoadingGif.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mkhq26j4b8",
-      "Integrity": "diU4brWe9XFvS7c8URzgnMy/+a5oBPc/XI4jkYcOzwA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\LoadingGif.gif"
-    }
-  ],
-  "Endpoints": [
-    {
-      "Route": "app.css",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2591"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 15:57:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
-        }
-      ]
-    },
-    {
-      "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2591"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 15:57:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "da95v2qkru"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 15:57:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
-        },
-        {
-          "Name": "label",
-          "Value": "bootstrap/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 15:57:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 15:57:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8inm30yfxf"
-        },
-        {
-          "Name": "label",
-          "Value": "bootstrap/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 15:57:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\favicon.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1148"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 15:57:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ifv42okdf2"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\favicon.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1148"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 15:57:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
-        }
-      ]
-    },
-    {
-      "Route": "images/LoadingGif.gif",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\images\\LoadingGif.gif",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13171"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/gif"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"diU4brWe9XFvS7c8URzgnMy/+a5oBPc/XI4jkYcOzwA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 20:22:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-diU4brWe9XFvS7c8URzgnMy/+a5oBPc/XI4jkYcOzwA="
-        }
-      ]
-    },
-    {
-      "Route": "images/LoadingGif.mkhq26j4b8.gif",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\images\\LoadingGif.gif",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13171"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/gif"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"diU4brWe9XFvS7c8URzgnMy/+a5oBPc/XI4jkYcOzwA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 20:22:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mkhq26j4b8"
-        },
-        {
-          "Name": "label",
-          "Value": "images/LoadingGif.gif"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-diU4brWe9XFvS7c8URzgnMy/+a5oBPc/XI4jkYcOzwA="
-        }
-      ]
-    },
-    {
-      "Route": "L00172691_BlazorServer.bundle.scp.css",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\L00172691_BlazorServer.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5927"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 17:09:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s="
-        }
-      ]
-    },
-    {
-      "Route": "L00172691_BlazorServer.d68oex8syh.bundle.scp.css",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\L00172691_BlazorServer.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5927"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 17:09:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d68oex8syh"
-        },
-        {
-          "Name": "label",
-          "Value": "L00172691_BlazorServer.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s="
-        }
-      ]
-    },
-    {
-      "Route": "L00172691_BlazorServer.d68oex8syh.styles.css",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\L00172691_BlazorServer.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5927"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 17:09:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d68oex8syh"
-        },
-        {
-          "Name": "label",
-          "Value": "L00172691_BlazorServer.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s="
-        }
-      ]
-    },
-    {
-      "Route": "L00172691_BlazorServer.styles.css",
-      "AssetFile": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\L00172691_BlazorServer.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5927"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 17:09:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-m077POmSIwfZEZwYlpQS6cFUW7mbyBeeVpZh0szXF1s="
-        }
-      ]
     }
   ]
 }

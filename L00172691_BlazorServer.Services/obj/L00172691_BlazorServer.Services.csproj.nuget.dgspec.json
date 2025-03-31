@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj": {}
+    "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj": {
+    "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj",
         "projectName": "L00172691_BlazorServer.DataAccess",
-        "projectPath": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\L00172691\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\L00172691\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj": {
-                "projectPath": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj"
+              "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj": {
+                "projectPath": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj"
               }
             }
           }
@@ -47,8 +48,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -95,24 +95,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj": {
+    "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj",
+        "projectUniqueName": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj",
         "projectName": "L00172691_BlazorServer.Model",
-        "projectPath": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj",
-        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\obj\\",
+        "projectPath": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj",
+        "packagesPath": "C:\\Users\\L00172691\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\L00172691\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,6 +121,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -138,8 +139,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -182,24 +182,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj": {
+    "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj",
+        "projectUniqueName": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj",
         "projectName": "L00172691_BlazorServer.Services",
-        "projectPath": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj",
-        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\obj\\",
+        "projectPath": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj",
+        "packagesPath": "C:\\Users\\L00172691\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\L00172691\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -208,14 +208,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj"
+              "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj"
               }
             }
           }
@@ -229,13 +230,16 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.13, )"
@@ -269,7 +273,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

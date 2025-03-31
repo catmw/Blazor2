@@ -13,7 +13,7 @@ namespace L00172691_BlazorServer.Models.Models
     {
         [Key]
         public int ID { get; set; }
-        [Required]
+        [Required(ErrorMessage="Please enter name")]
         public string Name { get; set; } = string.Empty;
 
         public string? ImageName { get; set; }
@@ -23,6 +23,7 @@ namespace L00172691_BlazorServer.Models.Models
         public string? description { get; set; }
 
         //Foreign Key
+        [Range(1, 300, ErrorMessage = "Please enter number between 1 and 300")]
         public int CategoryID { get; set; }
         [ForeignKey("CategoryID")]
         [ValidateNever]

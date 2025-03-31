@@ -1,32 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\L00172691_BlazorServer.bundle.scp.css",
-      "PackagePath": "staticwebassets\\L00172691_BlazorServer.d68oex8syh.bundle.scp.css"
+      "Id": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\L00172691_BlazorServer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\L00172691_BlazorServer.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\app.css",
+      "Id": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\images\\LoadingGif.gif",
+      "Id": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\wwwroot\\images\\LoadingGif.gif",
       "PackagePath": "staticwebassets\\images\\LoadingGif.gif"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.L00172691_BlazorServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.L00172691_BlazorServer.Microsoft.AspNetCore.StaticWebAssets.props",

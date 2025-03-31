@@ -17,3 +17,23 @@ C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debu
 C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.pdb
 C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.genruntimeconfig.cache
 C:\Users\edgar\Documents\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\ref\L00172691_BlazorServer.Services.dll
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\bin\Debug\net8.0\L00172691_BlazorServer.Services.deps.json
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\bin\Debug\net8.0\L00172691_BlazorServer.Services.runtimeconfig.json
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\bin\Debug\net8.0\L00172691_BlazorServer.Services.dll
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\bin\Debug\net8.0\L00172691_BlazorServer.Services.pdb
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\bin\Debug\net8.0\L00172691_BlazorServer.DataAccess.dll
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\bin\Debug\net8.0\L00172691_BlazorServer.Model.dll
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\bin\Debug\net8.0\L00172691_BlazorServer.DataAccess.pdb
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\bin\Debug\net8.0\L00172691_BlazorServer.Model.pdb
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.csproj.AssemblyReference.cache
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.AssemblyInfoInputs.cache
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.AssemblyInfo.cs
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.csproj.CoreCompileInputs.cache
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.sourcelink.json
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L0017269.0458E1A6.Up2Date
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.dll
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\refint\L00172691_BlazorServer.Services.dll
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.pdb
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\L00172691_BlazorServer.Services.genruntimeconfig.cache
+C:\Users\L00172691\OneDrive - Atlantic TU\Semester6\GitHub\Blazor2\L00172691_BlazorServer.Services\obj\Debug\net8.0\ref\L00172691_BlazorServer.Services.dll
