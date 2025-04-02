@@ -3,10 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{125AA98D-0CAF-45D3-9DD6-022E751D9666}|..\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver.services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver.dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125AA98D-0CAF-45D3-9DD6-022E751D9666}|..\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver.services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Migrations\\20250402153400_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\components\\pages\\categories\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,34 +25,35 @@
       "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\pages\\products\\createproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC6D0137-EA75-4619-A7B4-EC6B4C0F9FBD}|..\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver.dataaccess\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\components\\pages\\products\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\pages\\products\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Migrations\\20250331130525_ver2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7354C1C-4FF2-4B09-A554-431B86C40DA2}|..\\L00172691_BlazorServer.DataAccess\\L00172691_BlazorServer.DataAccess.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver.dataaccess\\migrations\\20250331130525_ver2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\components\\pages\\categories\\deletecategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\pages\\categories\\deletecategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\components\\pages\\categories\\editcategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\pages\\categories\\editcategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EC6D0137-EA75-4619-A7B4-EC6B4C0F9FBD}|..\\L00172691_BlazorServer.Model\\L00172691_BlazorServer.Model.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125AA98D-0CAF-45D3-9DD6-022E751D9666}|..\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver.services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125AA98D-0CAF-45D3-9DD6-022E751D9666}|..\\L00172691_BlazorServer.Services\\L00172691_BlazorServer.Services.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver.services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|c:\\users\\l00172691\\onedrive - atlantic tu\\semester6\\github\\blazor2\\l00172691_blazorserver\\components\\pages\\categories\\deletecategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FABD7FE4-FF1E-4C62-8A6A-01F35D15086F}|L00172691_BlazorServer.csproj|solutionrelative:components\\pages\\categories\\deletecategory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -92,6 +101,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20250402153400_fix.cs",
+              "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Migrations\\20250402153400_fix.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Migrations\\20250402153400_fix.cs",
+              "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Migrations\\20250402153400_fix.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Migrations\\20250402153400_fix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:34:00.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:31:56.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProduct.razor",
+              "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Products\\CreateProduct.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Products\\CreateProduct.razor",
+              "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Products\\CreateProduct.razor",
+              "RelativeToolTip": "Components\\Pages\\Products\\CreateProduct.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T15:22:14.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.Services\\IUnitOfWork.cs",
@@ -104,20 +152,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
               "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
               "RelativeToolTip": "..\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T13:54:23.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductList.razor",
               "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Products\\ProductList.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Products\\ProductList.razor",
@@ -130,20 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateProduct.razor",
-              "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Products\\CreateProduct.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Products\\CreateProduct.razor",
-              "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Products\\CreateProduct.razor",
-              "RelativeToolTip": "Components\\Pages\\Products\\CreateProduct.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T12:56:12.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\Models\\Product.cs",
               "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.Model\\Models\\Product.cs",
@@ -169,33 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T19:52:28.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryList.razor",
-              "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\CategoryList.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Categories\\CategoryList.razor",
-              "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\CategoryList.razor",
-              "RelativeToolTip": "Components\\Pages\\Categories\\CategoryList.razor",
-              "ViewState": "AQIAAC4AAAAAAAAAAAASwEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T19:14:56.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -208,7 +217,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
+              "RelativeToolTip": "..\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:22:23.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:52:28.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryList.razor",
+              "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\CategoryList.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Categories\\CategoryList.razor",
+              "ToolTip": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\CategoryList.razor",
+              "RelativeToolTip": "Components\\Pages\\Categories\\CategoryList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:14:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -221,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "20250331130525_ver2.cs",
               "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Migrations\\20250331130525_ver2.cs",
               "RelativeDocumentMoniker": "..\\L00172691_BlazorServer.DataAccess\\Migrations\\20250331130525_ver2.cs",
@@ -234,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CategoryRepo.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\CategoryRepo.cs",
@@ -245,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\Models\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\Models\\Category.cs",
@@ -256,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\IUnitOfWork.cs",
@@ -267,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Services\\UnitOfWork.cs",
@@ -278,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "DeleteCategory.razor",
               "DocumentMoniker": "C:\\Users\\L00172691\\OneDrive - Atlantic TU\\Semester6\\GitHub\\Blazor2\\L00172691_BlazorServer\\Components\\Pages\\Categories\\DeleteCategory.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Categories\\DeleteCategory.razor",
@@ -291,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ICategoryRepo.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\ICategoryRepo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\ICategoryRepo.cs",
@@ -302,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Data\\AppDBContext.cs",
@@ -313,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\Repository.cs",
@@ -324,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\ProductRepo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\ProductRepo.cs",
@@ -335,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IProductRepo.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\IProductRepo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\IProductRepo.cs",
@@ -346,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.DataAccess\\Repositories\\IRepository.cs",
@@ -357,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\Models\\Product.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\edgar\\Documents\\GitHub\\Blazor2\\L00172691_BlazorServer.Model\\Models\\Product.cs",

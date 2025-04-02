@@ -3,7 +3,6 @@
 @using L00172691_BlazorServer.Models.Models
 @inject NavigationManager _navigationManager;
 @inject IUnitOfWork _unitOfWork;
-@inject IFileMgt _fileMgt;
 
 @rendermode InteractiveServer
 
@@ -44,8 +43,8 @@
 			</div>
 			<div class="form-group">
 				<label>Image</label>
-				<InputFile OnChange="HandleImageUpLoad" />
-				<InputText id="Image" @bind-Value="Product.ImageName" class="form-control"> </InputText>
+				@* <InputFile OnChange="HandleImageUpLoad" />
+				<InputText id="Image" @bind-Value="Product.ImageName" class="form-control"> </InputText> *@
 
 			</div>
 
@@ -91,7 +90,7 @@
 		_navigationManager.NavigateTo("/products");
 	}
 
-	private async Task HandleImageUpLoad(InputFileChangeEventArgs e)
+	/*private async Task HandleImageUpLoad(InputFileChangeEventArgs e)
 	{
 		try
 		{
@@ -106,5 +105,5 @@
 			_navigationManager.NavigateTo("/product");
 		}
 
-	}
+	}*/
 }
